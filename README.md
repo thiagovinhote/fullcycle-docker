@@ -13,8 +13,15 @@ A imagem do projeto Go precisa ter menos de 2MB
 
 ```bash
 docker run thiagovinhote/codeeducation
+Code.education Rocks!
 ```
 
 ```bash
 docker run thiagovinhote/codeeducation Stars
+Code.education Stars!
+```
+
+```bash
+docker run thiagovinhote/codeeducation Challenge Go
+Code.education Challenge, Go!
 ```

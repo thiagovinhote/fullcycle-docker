@@ -9,7 +9,7 @@ A imagem do projeto Go precisa ter menos de 2MB
 
 ### Exemplos
 
-> docker pull thiagovinhote/codeeducation
+> docker pull [thiagovinhote/codeeducation](https://hub.docker.com/r/thiagovinhote/codeeducation)
 
 ```bash
 docker run thiagovinhote/codeeducation

@@ -1,0 +1,23 @@
+<%- contentFor('body') %>
+<h1>
+    Full Cycle
+</h1>
+
+<center>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Nome</th>
+    </tr>
+    <% people.forEach(function(person) { %>
+        <tr>
+            <td>
+                <%= person.id %>
+            </td>
+            <td>
+                <strong><%= person.name %></strong>
+            </td>
+        </tr>
+    <% }); %>
+</table>
+</center>

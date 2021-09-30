@@ -25,3 +25,16 @@ Code.education Stars!
 docker run thiagovinhote/codeeducation Challenge Go
 Code.education Challenge, Go!
 ```
+
+## Nginx com NodeJs
+
+```bash
+cd nginx-com-nodejs
+```
+
+```bash
+docker-compose up -d
+docker-compose logs -f --tail=50
+```
+
+> Acessar http://localhost:8080
